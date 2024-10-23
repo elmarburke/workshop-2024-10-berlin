@@ -1,0 +1,10 @@
+{
+  "importOrder": [
+    "<THIRD_PARTY_MODULES>",
+    "^@/ui/components(.*)$",
+    "^@/ui/(.*)$",
+    "^@/(.*)$",
+    "^[./]"
+  ],
+  "plugins": ["@trivago/prettier-plugin-sort-imports"]
+}
