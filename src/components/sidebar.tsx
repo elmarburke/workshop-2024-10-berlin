@@ -1,4 +1,4 @@
-import { Backpack, Bot, Route, Workflow } from "lucide-react";
+import { Backpack, Bot } from "lucide-react";
 import Link from "next/link";
 import { NavLink } from "@/components/nav-item";
 import { ModeToggle } from "./theme-toggle";
